@@ -4,6 +4,9 @@
 
 This project investigates how four distance metrics, Chamfer Distance, Hausdorff Distance, Wasserstein Distance, and Silhouette Score, detect structural differences in 3D biological point clouds derived from prostate cancer glycan data. The analysis uses DBSCAN clustering, jitter-based data augmentation, and controlled parameter sweeps (translation and rotation) to systematically evaluate each metric's sensitivity to different types of geometric change.
 
+## Video Walkthrough
+[pending]
+
 ---
 
 ## Research Question
