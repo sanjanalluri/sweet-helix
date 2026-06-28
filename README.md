@@ -83,6 +83,8 @@ At each step, all four metrics are computed between A and the transformed B. Thi
 | Wasserstein | Sensitive | Completely blind |
 | Silhouette | Sensitive | Completely blind |
 
+<img width="1120" height="400" alt="scwh_results_img" src="https://github.com/user-attachments/assets/91a93917-8127-46c5-878d-ca6c8146e130" />
+
 ### Key Findings
 
 - All four metrics detected translational shifts, producing a U-shaped curve as B moved toward then past A
